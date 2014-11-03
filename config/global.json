@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Punctual": {
+            "applicationId": "dIzZXQNYGIGklUc2TIWyH5cClDsJyPguW3OtUdyD", 
+            "masterKey": "VBkkryKcZ810ESn7Is7q8HTkWpzH6LcvQmtCCjEh"
+        }, 
+        "_default": {
+            "link": "Punctual"
+        }
+    }
+}
